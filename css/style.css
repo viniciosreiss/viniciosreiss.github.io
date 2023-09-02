@@ -1,0 +1,37 @@
+html{
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: antiquewhite;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 0 20px 70px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 1px 1px 5px rgb(73, 73, 73);
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
